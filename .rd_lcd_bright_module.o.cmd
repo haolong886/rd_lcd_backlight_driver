@@ -1,0 +1,1 @@
+cmd_/usr/src/rd_board/rd_lcd_bright/rd_lcd_bright_module.o := arm-none-linux-gnueabi-ld -EL    -r -o /usr/src/rd_board/rd_lcd_bright/rd_lcd_bright_module.o /usr/src/rd_board/rd_lcd_bright/rd_lcd_bright.o 
